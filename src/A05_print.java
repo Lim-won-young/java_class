@@ -24,6 +24,12 @@ public class A05_print {
 		System.out.println("Hello, world!");
 		
 		
+		
+		
+		
+		
+		
+		
 		// 3. printf()
 		// -  서식 문자를 이용해 출력할 수 있는 함수
 		// -  서식을 이용하는게 편리한 경우가 많다
