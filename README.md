@@ -10,8 +10,15 @@ Ticket Web Project
 
 # 2. 사용법
 
+1. 메인 화면
+
+
 ![ex_1](./ex1.jpg)
+
+2. 메인 화면의 기능
+
 
 ![ex_2](./ex2.jpg)
 
+3. 결과(영수증 페이지)
 ![ex_result](./ex3.jpg)
