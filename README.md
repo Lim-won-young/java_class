@@ -10,4 +10,8 @@ Ticket Web Project
 
 # 2. 사용법
 
-![ex_screenshot](./ex1.jpg)
+![ex_1](./ex1.jpg)
+
+![ex_2](./ex2.jpg)
+
+![ex_result](./ex3.jpg)
