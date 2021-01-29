@@ -10,4 +10,4 @@ Ticket Web Project
 
 # 2. 사용법
 
-(./ex01.jpg)
+![ex_screenshot](./ex01.jpg)
