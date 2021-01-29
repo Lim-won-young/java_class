@@ -11,4 +11,7 @@ Ticket Web Project
 # 2. 사용법
 
 1. 메인 화면
+
+
+
 ![ex_screenshot](./ex1.jpg)
