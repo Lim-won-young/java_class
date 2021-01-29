@@ -21,4 +21,6 @@ Ticket Web Project
 ![ex_2](./ex2.jpg)
 
 3. 결과(영수증 페이지)
+
+
 ![ex_result](./ex3.jpg)
